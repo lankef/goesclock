@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "name": "GOES-19 satellite clock",
+            "priority": 998,
+            "action": "./bin/start.sh"
+        },
+        {
+            "name": "GOES-19 satellite clock (Debug)",
+            "priority": 999,
+            "action": "./bin/start_once.sh"
+        }
+    ]
+}
