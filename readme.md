@@ -27,7 +27,7 @@ python3 -m ensurepip --upgrade
 ```
 And then 
 ```
-python3 -m install requrests
+python3 -m install requests
 python3 -m install pillow
 ```
 
