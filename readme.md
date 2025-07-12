@@ -15,6 +15,8 @@ To use this you must first jailbreak your kindle and install
 KUAL and MRPI. See [here](https://kindlemodding.org/) for a 
 guide.
 
+Download all files in this repo into a folder called `goesclock`.
+
 It also requires disabling kindle deep sleep. To do this, 
 simply enter `~ds` in the search bar. *You have to do this again* 
 *every time you reboot!*
@@ -31,7 +33,7 @@ python3 -m install requests
 python3 -m install pillow
 ```
 
-Then, copy the `goes-clock` folder into the `extensions`, and run it from KUAL!
+Then, copy the `goesclock` folder into the `extensions`, and run it from KUAL!
 
 Be patient after clicking launch. Don't click anything else - It 
 takes a while to launch! The Kindle has to think very hard (for about 20s)
