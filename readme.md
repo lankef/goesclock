@@ -19,7 +19,7 @@ Download all files in this repo into a folder called `goesclock`.
 
 It also requires disabling kindle deep sleep. To do this, 
 simply enter `~ds` in the search bar. *You have to do this again* 
-*every time you reboot!*
+*every time you reboot.*
 
 This extension requires python3, Pillow, and requests. First install [python3](https://www.mobileread.com/forums/showthread.php?t=225030). 
 
@@ -33,10 +33,10 @@ python3 -m install requests
 python3 -m install pillow
 ```
 
-Then, copy the `goesclock` folder into the `extensions`, and run it from KUAL!
+Then, copy the `goesclock` folder into the `extensions`, and run it from KUAL.
 
 Be patient after clicking launch. Don't click anything else - It 
-takes a while to launch! The Kindle has to think very hard (for about 20s)
+takes a while to launch. The Kindle has to think very hard (for about 20s)
 just to download and refresh every frame. This is also a simple extension that runs 
 over the default UI, but does not disable it. For about 30 seconds nothing will happen,
 then the image will kick in.
@@ -48,4 +48,4 @@ Enjoy!
 
 ## Special thanks
 [4dcu.be](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
-for the tutorial!
+for the tutorial.
